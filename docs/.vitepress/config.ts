@@ -28,7 +28,7 @@ export default async () => defineConfig({
     nav: [
       { text: 'Manual', link: 'https://wa-lang.org/man/' },
       { text: 'Playground', link: 'https://wa-lang.org/playground/' },
-      { text: 'Examples', link: '/excamples/', activeMatch: '/excamples/' },
+      { text: 'Examples', link: '/examples/', activeMatch: '/examples/' },
     ],
 
     socialLinks: [
