@@ -1,17 +1,17 @@
 ---
-title: 案例
+title: Examples
 ---
 
-# 贪吃蛇小游戏
+# Snake Game
 
-- 网页地址：https://wa-lang.org/wa/snake
-- 实现原理：https://wa-lang.org/smalltalk/st0018.html
+- How is it implemented?：https://wa-lang.org/smalltalk/st0018.html
 
-电脑版运行结果如图：
+On PC, press '←' '→' '↑' '↓' keys on keyboard to control it：
 
 ![](/st0018-01.png)
 
-手机运行结果如图：
+On mobile phone, touch the arrow buttons on the screen to control it：
 
 ![](/st0018-02.png)
 
+- Try it at：https://wa-lang.org/wa/snake
