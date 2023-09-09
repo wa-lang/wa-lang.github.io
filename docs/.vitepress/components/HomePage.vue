@@ -5,7 +5,7 @@ import { COMMUNITIES, CONTRIBUTORS, FRIENDLY_LINK } from '../constants'
 <template>
   <div class="content">
     <div class="title">
-      社区资讯
+      Communities
     </div>
     <div class="list" :style="{ gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))' }">
       <a
@@ -21,16 +21,16 @@ import { COMMUNITIES, CONTRIBUTORS, FRIENDLY_LINK } from '../constants'
       </a>
     </div>
     <div class="title">
-      贡献成员
+      Contributors
     </div>
     <div class="list">
       <div v-for="(ctr, idx) in CONTRIBUTORS" :key="idx" class="card">
         <span class="card__name">{{ ctr.name }}</span>
-        <span class="card__points">贡献点：{{ ctr.points }}</span>
+        <span class="card__points">Contribution Points:{{ ctr.points }}</span>
       </div>
     </div>
     <div class="title">
-      友情链接
+      Links
     </div>
     <div class="list" :style="{ justifyItems: 'center' }">
       <a

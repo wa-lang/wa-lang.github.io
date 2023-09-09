@@ -33,7 +33,7 @@ function openLink() {
             </div>
             <div class="vt-button-wrapper">
               <div class="vt-button" @click.prevent.stop="openLink">
-                立即查看
+                Check now
               </div>
             </div>
           </div>
