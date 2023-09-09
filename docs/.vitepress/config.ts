@@ -6,23 +6,18 @@ import { generateSidebarItems } from './helper/sidebarItems'
 import HighlightedExt from './plugins/highlightedExt'
 
 export default async () => defineConfig({
-  lang: 'zh-CN',
-  title: '凹语言',
-  description: '针对 WASM 平台设计的通用编程语言',
+  lang: 'en-US',
+  title: 'Wa-lang',
+  description: 'General-purpose language designed for WebAssembly',
   appearance: true,
 
   locales: {
-    root: { label: '简体中文' },
-    en: { label: 'English', link: 'https://en.wa-lang.org' },
+    root: { label: 'English' },
+    chs: { label: '中文', link: 'https://wa-lang.org' },
   },
 
   themeConfig: {
     logo: '/favicon.svg',
-
-    editLink: {
-      pattern: 'https://github.com/wa-lang/wa-lang.github.io/edit/master/docs/:path',
-      text: '为此页提供修改建议',
-    },
 
     algolia: {
       appId: '3401L2T8D6',
@@ -31,11 +26,9 @@ export default async () => defineConfig({
     },
 
     nav: [
-      { text: '灵魂拷问', link: '/qa/', activeMatch: '/qa/' },
-      { text: '参考手册', link: 'https://wa-lang.org/man/' },
+      { text: 'Manual', link: 'https://wa-lang.org/man/' },
       { text: 'Playground', link: 'https://wa-lang.org/playground/' },
-      { text: '碎碎念', link: '/smalltalk/', activeMatch: '/smalltalk/' },
-      { text: '社区', link: '/community/', activeMatch: '/community/' },
+      { text: 'Examples', link: '/excamples/', activeMatch: '/excamples/' },
     ],
 
     socialLinks: [
@@ -70,9 +63,9 @@ export default async () => defineConfig({
       ],
       '/examples/': [
         {
-          text: '案例',
+          text: 'Examples',
           items: [
-            { text: '小游戏', link: '/examples/' },
+            { text: 'Snake Game', link: '/examples/' },
           ],
         },
       ],
@@ -132,7 +125,7 @@ export default async () => defineConfig({
       ],
     },
     footer: {
-      copyright: '版权 ©️ 凹语言开发组 2018，保留权利',
+      copyright: '©️ Wa-lang Dev Team, 2018',
     },
   },
 
