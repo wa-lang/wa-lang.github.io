@@ -32,7 +32,6 @@ export default async () => defineConfig({
     ],
 
     socialLinks: [
-      { icon: { svg: ICONS.gitee }, link: 'https://gitee.com/wa-lang/wa' },
       { icon: 'github', link: 'https://github.com/wa-lang/wa/' },
     ],
 
