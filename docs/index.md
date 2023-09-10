@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: alt
       text: Manual
-      link: https://wa-lang.org/man/
+      link: https://wa-lang.github.io/man/en/
     - theme: alt
       text: Playground
       link: https://wa-lang.org/playground/
