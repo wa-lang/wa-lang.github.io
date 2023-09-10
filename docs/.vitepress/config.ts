@@ -13,7 +13,7 @@ export default async () => defineConfig({
 
   locales: {
     root: { label: 'English' },
-    chs: { label: '中文', link: 'https://wa-lang.org' },
+    chs: { label: '简体中文', link: 'https://wa-lang.org' },
   },
 
   themeConfig: {

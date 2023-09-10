@@ -6,6 +6,6 @@
     }
   }
 
-  window.__WA_BANNER_ID__ = 'st0030'
+  window.__WA_BANNER_ID__ = 'wa-lang-mvp-release'
   restore(`wa-docs-banner-${window.__WA_BANNER_ID__}`, 'banner-dismissed')
 })()
