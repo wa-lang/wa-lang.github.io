@@ -51,7 +51,8 @@ export const DEMOS = [
 ]
 
 export const FRIENDLY_LINK = [
-  { name: '洛书', logoName: 'losu.png', link: 'https://losu.tech/' },
+	{ name: 'PLOC', logoName: 'ploc-logo.svg', link: 'https://ploc.org.cn/' },
+	{ name: '洛书', logoName: 'losu.png', link: 'https://losu.tech/' },
 ]
 
 export const NAV_BANNER = {
