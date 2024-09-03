@@ -42,8 +42,10 @@ export const COMMUNITIES = [
 export const DEMOS = [
 	{ name: 'Playground', logoName: 'wa.png', link: 'https://wa-lang.org/playground/' },
 	{ name: 'Snake Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/snake/' },
-	{ name: 'WASM4/Snake Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-snake/' },
-	{ name: 'WASM4/2048 Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-2048/' },
+	{ name: 'Snake Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-snake/' },
+	{ name: '2048 Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-2048/' },
+	{ name: 'Tetris Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-tetris/' },
+	{ name: 'Tic Tac Toe', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-tic-tac-toe/' },
 	{ name: 'NES emulator', logoName: 'wa.png', link: 'https://wa-lang.org/nes/' },
 	{ name: 'WebGPU', logoName: 'wa.png', link: 'https://wa-lang.org/webgpu/' },
 	{ name: 'Magnifying Glass', logoName: 'wa.png', link: 'https://wa-lang.org/examples/magnifying-glass/' },
