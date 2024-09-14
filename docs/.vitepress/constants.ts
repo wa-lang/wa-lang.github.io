@@ -44,6 +44,7 @@ export const DEMOS = [
 	{ name: '2048 Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-2048/' },
 	{ name: 'Tetris Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-tetris/' },
 	{ name: 'Tic Tac Toe', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-tic-tac-toe/' },
+	{ name: 'Pong Game', logoName: 'wa.png', link: 'https://wa-lang.org/wa/w4-pong/' },
 	{ name: 'NES emulator', logoName: 'wa.png', link: 'https://wa-lang.org/nes/' },
 	{ name: 'WebGPU', logoName: 'wa.png', link: 'https://wa-lang.org/webgpu/' },
 	{ name: 'Magnifying Glass', logoName: 'wa.png', link: 'https://wa-lang.org/examples/magnifying-glass/' },
