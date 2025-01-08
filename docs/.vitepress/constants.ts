@@ -26,6 +26,8 @@ export const CONTRIBUTORS = [
 	{ name: '蔡兴', points: 3000 },
 	{ name: '王仁义', points: 1000 },
 	{ name: 'imalasong', points: 1000 },
+	{ name: '杨刚', points: 4000 },
+	{ name: '崔爽', points: 2000 },
 ]
 
 export const COMMUNITIES = [
@@ -59,6 +61,7 @@ export const DEMOS = [
 export const FRIENDLY_LINK = [
 	{ name: 'PLOC', logoName: 'ploc-logo.svg', link: 'https://ploc.org.cn/' },
 	{ name: 'Losu', logoName: 'losu.png', link: 'https://losu.tech/' },
+	{ name: 'Dora SSR', logoName: 'dora.svg', link: 'https://dora-ssr.net/' },
 ]
 
 export const NAV_BANNER = {
