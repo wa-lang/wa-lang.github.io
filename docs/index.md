@@ -9,12 +9,12 @@ hero:
   name: Wa-lang
   text: Design for WebAssembly
   image:
-    src: /logo-shadow.svg
+    src: /wa-chan/wa-chan-front-small-logo-animate1.svg
     alt: Wa-lang
   actions:
     - theme: alt
-      text: Manual
-      link: https://wa-lang.github.io/man/en/
+      text: Tutorial
+      link: https://wa-lang.org/tutorial/
     - theme: alt
       text: Playground
       link: https://wa-lang.org/playground/
