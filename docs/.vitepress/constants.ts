@@ -10,7 +10,7 @@ export const CONTRIBUTORS = [
 	{ name: '丁尔男', points: 73500 },
 	{ name: '史斌', points: 10000 },
 	{ name: '扈梦明', points: 39000 },
-	{ name: '赵普明', points: 18000 },
+	{ name: '赵普明', points: 10000 },
 	{ name: '宋汝阳', points: 2000 },
 	{ name: '刘云峰', points: 1000 },
 	{ name: '王潇南', points: 1000 },
