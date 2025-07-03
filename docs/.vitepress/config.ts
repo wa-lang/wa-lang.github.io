@@ -7,7 +7,7 @@ import HighlightedExt from './plugins/highlightedExt'
 
 export default async () => defineConfig({
   lang: 'en-US',
-  title: 'Wa-lang',
+  title: 'Wa',
   description: 'General-purpose language designed for WebAssembly',
   appearance: true,
 
@@ -123,7 +123,7 @@ export default async () => defineConfig({
       ],
     },
     footer: {
-      copyright: '©️ Wa-lang Dev Team, 2018',
+      copyright: '©️ China Wuhan WaYuYan Technology Co., Ltd. 2025',
     },
   },
 
