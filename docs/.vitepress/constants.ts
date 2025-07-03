@@ -67,6 +67,6 @@ export const FRIENDLY_LINK = [
 ]
 
 export const NAV_BANNER = {
-  title: '🎉 Wa-lang MVP Released! 🎉',
+  title: '🎉 Wa MVP Released! 🎉',
   link: 'https://wa-lang.github.io/man/en/',
 }
