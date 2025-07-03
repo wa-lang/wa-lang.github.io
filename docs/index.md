@@ -2,11 +2,11 @@
 layout: home
 sidebar: false
 
-title: Wa
+title: The Wa Programming Language
 titleTemplate: Freedom in simplicity
 
 hero:
-  name: Wa
+  name: Wa Language
   text: Freedom in simplicity
   image:
     src: /wa-chan/wa-chan-front-small-logo-animate1.svg
