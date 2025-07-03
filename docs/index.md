@@ -2,15 +2,15 @@
 layout: home
 sidebar: false
 
-title: Wa-lang
-titleTemplate: Design for WebAssembly
+title: Wa
+titleTemplate: Freedom in simplicity
 
 hero:
-  name: Wa-lang
-  text: Design for WebAssembly
+  name: Wa
+  text: Freedom in simplicity
   image:
     src: /wa-chan/wa-chan-front-small-logo-animate1.svg
-    alt: Wa-lang
+    alt: Wa
   actions:
     - theme: alt
       text: Tutorial
